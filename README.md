@@ -37,7 +37,7 @@ Mô hình `YOLOv8n` (bản Nano) được huấn luyện trong 50 Epochs với p
 
 ### 📸 Demo Nhận diện Thực tế (Deployment)
 *Video/Ảnh chụp thực tế minh họa khả năng Tracking của hệ thống trên đường phố Việt Nam.*
-![Demo Inference](yolo_output/lactrung_test.png)
+![Demo Inference](YOLO_output/lactrung_test.png)
 
 ---
 
