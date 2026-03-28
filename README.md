@@ -63,7 +63,7 @@ Mô hình `YOLOv8n` (bản Nano) được huấn luyện trong 50 Epochs với p
 
 ---
 
-## ⚙️ 4. Hướng dẫn Cài đặt & Sử dụng (Quick Start)
+## ⚙️ 5. Hướng dẫn Cài đặt & Sử dụng (Quick Start)
 
 ### Yêu cầu hệ thống (Prerequisites)
 * Hệ điều hành: Windows / Linux / macOS
