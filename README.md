@@ -5,9 +5,9 @@
 ![Computer Vision](https://img.shields.io/badge/Task-Object_Detection-orange)
 
 ## 📖 1. Tổng quan Dự án (Abstract)
-Dự án này ứng dụng mô hình Deep Learning **YOLOv8** để giải quyết bài toán phát hiện và phân loại biển báo giao thông tại Việt Nam theo thời gian thực (Real-time Object Detection). 
+Dự án này ứng dụng mô hình Deep Learning YOLOv8 để giải quyết bài toán phát hiện và phân loại biển báo giao thông tại Việt Nam từ các nguồn video tải lên (Video-based Detection).
 
-Hệ thống được thiết kế tối ưu hóa để có thể xử lý mượt mà trên Video/Camera hành trình, đóng vai trò như một module Thị giác máy tính (Vision Module) lõi, sẵn sàng tích hợp vào các hệ thống AI Agent hỗ trợ lái xe an toàn (ADAS) trong tương lai.
+Hệ thống hỗ trợ người dùng tải lên các đoạn video từ camera hành trình, sau đó tự động phân tích, nhận diện và gán nhãn các loại biển báo theo từng khung hình, cung cấp báo cáo chi tiết về lộ trình giao thông.
 
 ---
 
