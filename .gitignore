@@ -1,0 +1,16 @@
+
+venv/
+env/
+__pycache__/
+*.pyc
+.DS_Store
+dataset/
+train/
+valid/
+test/
+runs/
+*.mp4
+*.avi
+*.pt
+*.pth
+*.onnx

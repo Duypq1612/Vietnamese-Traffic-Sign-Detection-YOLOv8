@@ -1,0 +1,7 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Bien_Cam', 'Bien_Nguy_Hiem', 'Bien_Hieu_Lenh', 'Bien_Chi_Dan']
+
